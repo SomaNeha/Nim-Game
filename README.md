@@ -1,0 +1,2 @@
+# Nim-Game
+Implementation of Nim game using dynamic programming.The mechanics of playing a single game form a logically distinct unit, as do the mechanics of keeping track of the moves. Reequired to play a nim game using fibonacci series: 1) Initialization (set initial number of counters, initialize the random number generator (see below), and determine who plays first). 2) Computer makes a move. 3)Human makes a move.
